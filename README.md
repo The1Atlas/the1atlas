@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <img width="420" height="400" src="https://github.com/The1Atlas/the1atlas/blob/main/atlas.jpg"/>
+  <img width="420" height="390" src="https://github.com/The1Atlas/the1atlas/blob/main/atlas.jpg"/>
 </p>
 
 <p align="center">
