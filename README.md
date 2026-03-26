@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-
+  <img width="500px", height="350px", src="atlas.jpg">
 </p>
 
 <p align="center">
