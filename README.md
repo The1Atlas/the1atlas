@@ -1,6 +1,6 @@
 <hr>
 
-# 👋 Hey! You might know me as Atlas... but who am I? 🔥
+<h1 align = "center">👋 Hey! You might know me as Atlas... but who am I? 🔥 </h1>
 
 <p align = "center">
   <img width="140" src="https://komarev.com/ghpvc/?username=the1atlas&style=for-the-badge">
