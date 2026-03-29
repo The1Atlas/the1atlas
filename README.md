@@ -26,15 +26,15 @@
 <hr>
 
 ```YAML
-                                  ---
-                                  knowledge:
-                                    - Extensive knowledge of Python.
-                                    - Experience with Unity game development.
-                                    - languages: ["Python", "C#", "HTML", "CSS", "Javascript"]
-                                    - tools: ["Unity", "VSCode/VSCodium", "Github", "Git"]
-                                  
-                                  development:
-                                    - TBD
+                              ---
+                              knowledge:
+                              - Extensive knowledge of Python.
+                              - Experience with Unity game development.
+                              - languages: ["Python", "C#", "HTML", "CSS", "Javascript"]
+                              - tools: ["Unity", "VSCode/VSCodium", "Github", "Git"]
+
+                              development:
+                              - TBD
 ```
 
 <hr>
